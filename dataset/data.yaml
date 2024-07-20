@@ -1,0 +1,31 @@
+path: ../datasets/roboflow
+
+train: C:/Users/Tarisa/Visual Studio Code/projekk2/dataset/train/images
+val: C:/Users/Tarisa/Visual Studio Code/projekk2/dataset/valid/images
+test: C:/Users/Tarisa/Visual Studio Code/projekk2/dataset/test/images
+
+nc: 10
+names:
+  [
+    "Bus",
+    "Motorcyecle",
+    "Pickup",
+    "SUV",
+    "Sedan",
+    "Suv",
+    TR'UCK,
+    "TUCK",
+    "Truck",
+    "Van",
+  ]
+# names:
+#   0: Bus
+#   1: Motorcyecle
+#   2: Pickup
+#   3: SUV
+#   4: Sedan
+#   5: Suv
+#   6: TRUCK
+#   7: TUCK
+#   8: Truck
+#   9: Van
